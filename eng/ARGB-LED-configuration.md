@@ -3,7 +3,7 @@
 [Start page](../README.md) | [Previous level](LED-connection.md)
 ## Connecting WS2812, PL9823 ARGB LEDs:
 
-Addressable LEDs should be connected to pin A9 via a 1K pull-up resistor to 5V.
+Addressable LEDs should be connected to pin A10 via a 1K pull-up resistor to 5V.
 
 ![LARGB1](../images/LARGB1.jpg)
 
