@@ -10,6 +10,7 @@
 * [Buttons setup](eng/Buttons-connection.md)
 * [Axes setup](eng/Axes-connection.md)
 * [LED setup](eng/LED-connection.md)
+* [Bluetooth connection](eng/Bluetooth-connection.md)
 * [Advanced settings](eng/Advanced-settings.md)
 * [Linux guide](eng/Linux-Guide.md)
 
@@ -23,6 +24,7 @@
 * [Подключение кнопок](rus/Подключение-кнопок.md)
 * [Подключение осей](rus/Подключение-осей.md)
 * [Подключение светодиодов](rus/Подключение-светодиодов.md)
+* [Подключение Bluetooth](rus/Подключение-Bluetooth.md)
 * [Дополнительные настройки](rus/Продвинутые-настройки.md)
 * [Таблица мапинга](rus/Таблица-мапинга.md)
 
