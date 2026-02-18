@@ -18,6 +18,7 @@ FreeJoy is a customizable gaming device controller based on the low-cost STM32F1
 * Support for external ADCs ADS1115 and MCP3201/02/04/08;
 * 4 channels PWM for backlight control;
 * 24 LEDs (single or in the matrix), mapped to the states of the buttons;
+* 50 addressable LEDs ws2812b or pl9823 with effects and the ability to control via SimHub;
 * Setting the device name and other USB parameters;
 * Convenient utility for configuration;
 * Upgrade firmware via USB;
