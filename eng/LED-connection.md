@@ -7,6 +7,7 @@ FreeJoy support following LED types:
 
 - [Mono LEDs configuration](Mono-LED-configuration.md)
 - [RGB LEDs configuration](RGB-LED-configuration.md)
+- [External controlled LEDs](External-LED-control.md)
 - [ARGB LEDs configuration](ARGB-LED-configuration.md)
 - [Connecting to SimHub](Connect-to-SimHub.md)
 
